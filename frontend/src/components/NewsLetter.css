@@ -1,0 +1,16 @@
+
+.newsLetter{
+    width: 65%;
+    HEIGHT: 40VH;
+    DISPLAY: FLEx;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    margin: auto;
+    padding: 0px 140px;
+    margin-bottom: 150px;
+    gap: 30px;
+
+    
+
+}

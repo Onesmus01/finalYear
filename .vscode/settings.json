@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.showOnlyDirectDependenciesInAutoImport": true,
+    "typescript.preferences.preferTypeOnlyAutoImports": true,
+    "autoimport.showNotifications": true
+}

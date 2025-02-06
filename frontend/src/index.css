@@ -8,7 +8,9 @@
 a.active hr{
     dispaly: block;
 }
-
+::-webkit-scrollbar{
+  display: none;
+}
 .hero{
   height: 100vh; 
   background: linear-gradient(180deg #fde1ff,#e1ffea22,60%);
